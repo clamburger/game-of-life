@@ -33,8 +33,8 @@ a.btn-main {
   <div class="span6">
     <a href="property.php" class="btn btn-large btn-block btn-main">Property Management<br><code>Shortcut: P</code></a>
     
-    <a href="property-monitor.php" class="btn btn-large btn-block">Property Monitor (for campers)</a>
-    <a href="property-overview.php" class="btn btn-large btn-block">Property Overview (for leaders)</a>    
+    <a href="property-monitor.php" class="btn btn-large btn-block">Property Monitor (for players)</a>
+    <a href="property-overview.php" class="btn btn-large btn-block">Property Overview (for game masters)</a>    
   </div>
   <div class="span6">
     <a href="lottery.php" class="btn btn-large btn-block btn-main">The Lottery<br><code>Shortcut: L</code></a>

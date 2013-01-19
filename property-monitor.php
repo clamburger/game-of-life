@@ -4,11 +4,6 @@
 <title>The Game of Life</title>
 </head>
 <style type="text/css">
-@font-face {
-  font-family: "OCR A";
-  src: url("resources/OCRAEXT.ttf");
-}
-
 .title {
   font-weight: bold;
   font-size: 60px;
@@ -31,7 +26,7 @@ td {
   margin: 10px auto;
   font-size: 25px;
   border: 2px solid black;
-  font-family: "OCR A";
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
 }
 #loading {
   background-color: black;
